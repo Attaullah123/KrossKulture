@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "550132632283",
+    "firebase_url": "https://krosskulture-android.firebaseio.com",
+    "project_id": "krosskulture-android",
+    "storage_bucket": "krosskulture-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550132632283:android:67b0b8521f74717a",
+        "android_client_info": {
+          "package_name": "com.atta.krosskulture.krosskulture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550132632283-unccma4d2pf0il028gkjg68kdvr238bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTEL-obWMCgltPwNO6ZhDfmO93jSBQXaI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
